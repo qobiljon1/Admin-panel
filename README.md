@@ -1,2 +1,2 @@
 # Admin-panel
-Ajax DataTablelar orqali yaratish
+ Admin Panelni Ajax DataTablelar orqali yaratish
